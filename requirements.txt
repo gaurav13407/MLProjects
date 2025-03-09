@@ -10,4 +10,5 @@ memory_profiler
 streamlit
 xgboost
 catboost
+dill
 #-e .
